@@ -3,3 +3,4 @@ postgres:15
 nginx:latest
 redis:7
 node:18
+python:3.10-slim-bookworm
